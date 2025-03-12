@@ -1,7 +1,5 @@
 # Job-Search-Recommendation-Tool---Indeed.com
 
-##### Team Members:
-Michael Crosson, Andy Ma, Destin Blanchard, Sarah Dominguez, Brooks Li, Brinda Asuri
 
 ### Project Overview
 This project is designed to help job seekers efficiently find personalized job postings that align with their skills, experiences, and preferences. By leveraging **web scraping, Natural Language Processing (NLP), and Machine Learning (ML)** techniques, our system provides tailored job recommendations.
@@ -19,3 +17,5 @@ This project is designed to help job seekers efficiently find personalized job p
 - **Similarity Matching:** Cosine similarity
 
 
+##### Team Members:
+Michael Crosson, Andy Ma, Destin Blanchard, Sarah Dominguez, Brooks Li, Brinda Asuri
